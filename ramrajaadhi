@@ -1,0 +1,69 @@
+AVENUES TV
+http://stream-7b694ce7e.nmbs.top/m3u/Nepal/a0a5af052b.m3u8
+KANTIPUR TV
+http://stream-7b694ce7e.nmbs.top/m3u/Nepal/3620bc6bb5.m3u8
+MOUNTAIN TV
+http://stream-7b694ce7e.nmbs.top/m3u/Nepal/7e1c3ca0c0.m3u8
+NTV PLUS
+http://stream-7b694ce7e.nmbs.top/m3u/Nepal/7bf196a475.m3u8
+VISION NEPAL
+http://stream-7b694ce7e.nmbs.top/m3u/Nepal/7a30398d42.m3u8
+HIMALAYA TV
+http://stream-7b694ce7e.nmbs.top/m3u/Nepal/79f7d325ee.m3u8
+TV FILMY
+http://stream-7b694ce7e.nmbs.top/m3u/Nepal/a69be21cb6.m3u8
+
+Author
+@shumanbasnet shumanbasnet commented on May 17, 2020
+Thank you !!! Waiting for rest of the channels links
+
+Author
+ @shumanbasnet shumanbasnet commented on May 17, 2020 • 
+Hi Admin,
+
+All of the below links are down again.
+On Sun, 17 May 2020 at 6:58 am, Nintendocustom ***@***.***> wrote:
+ AVENUES TV
+ http://stream-7b694ce7e.nmbs.top/m3u/Nepal/a0a5af052b.m3u8
+ KANTIPUR TV
+ http://stream-7b694ce7e.nmbs.top/m3u/Nepal/3620bc6bb5.m3u8
+ MOUNTAIN TV
+ http://stream-7b694ce7e.nmbs.top/m3u/Nepal/7e1c3ca0c0.m3u8
+ NTV PLUS
+ http://stream-7b694ce7e.nmbs.top/m3u/Nepal/7bf196a475.m3u8
+ VISION NEPAL
+ http://stream-7b694ce7e.nmbs.top/m3u/Nepal/7a30398d42.m3u8
+ HIMALAYA TV
+ http://stream-7b694ce7e.nmbs.top/m3u/Nepal/79f7d325ee.m3u8
+ TV FILMY
+ http://stream-7b694ce7e.nmbs.top/m3u/Nepal/a69be21cb6.m3u8
+
+ —
+ You are receiving this because you authored the thread.
+ Reply to this email directly, view it on GitHub
+ <#1357 (comment)>, or
+ unsubscribe
+ <https://github.com/notifications/unsubscribe-auth/AID67H4IAW3UNJQ5LLOX2JDRR345TANCNFSM4M5BTSVQ>
+ .
+--
+@Nintendocustom Nintendocustom mentioned this issue on May 17, 2020
+ie, in, it, np and pk update #1382
+ Merged
+@nepalicana nepalicana commented on May 20, 2020
+@shumanbasnet You forgot AP1 HD
+
+@freearhey freearhey added the IN label on Jan 15
+@freearhey freearhey mentioned this issue on Jan 15
+Nepal Channel Requests #1963
+ Closed
+13 tasks
+Collaborator
+@freearhey freearhey commented on Jan 15
+Kantipur TV
+
+iptv/channels/np.m3u
+
+Lines 2 to 3 in 824435f
+
+ #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://jcss-cdn.ekantipur.com//kantipur-tv/images/ktv-hd.png" group-title="Entertainment",Kantipur TV 
+ https://ktvhdnpicc6670.ekantipur.com/ktv_abr/hd/kantipurtv/hd_1080/playlist.m3u8 
